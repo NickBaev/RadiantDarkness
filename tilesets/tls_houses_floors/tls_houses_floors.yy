@@ -1,16 +1,14 @@
 {
   "$GMTileSet":"v1",
-  "%Name":"tls_swamp_outdoors",
-  "autoTileSets":[
-    {"$GMAutoTileSet":"","%Name":"autotile_1","closed_edge":false,"name":"autotile_1","resourceType":"GMAutoTileSet","resourceVersion":"2.0","tiles":[34,61,59,60,3,32,0,4,1,0,30,6,2,62,64,31,],},
-  ],
+  "%Name":"tls_houses_floors",
+  "autoTileSets":[],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,
     "TileSerialiseData":[],
   },
-  "name":"tls_swamp_outdoors",
-  "out_columns":24,
+  "name":"tls_houses_floors",
+  "out_columns":15,
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
@@ -20,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"spr_swamp_tileset",
-    "path":"sprites/spr_swamp_tileset/spr_swamp_tileset.yy",
+    "name":"spr_houses_floors_tileset",
+    "path":"sprites/spr_houses_floors_tileset/spr_houses_floors_tileset.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
@@ -36,5 +34,5 @@
   "tileWidth":16,
   "tilexoff":0,
   "tileyoff":0,
-  "tile_count":580,
+  "tile_count":231,
 }
